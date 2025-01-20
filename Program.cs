@@ -27,7 +27,7 @@ while (true)
 {
     Console.WriteLine();
 
-    Console.WriteLine("Prompt:");
+    Console.WriteLine("User Prompt:");
     string prompt = Console.ReadLine() ?? "What is .NET? Reply in 50 words max.";
     history.Add(new(ChatRole.User, prompt));
 

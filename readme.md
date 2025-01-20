@@ -1,5 +1,7 @@
 # .NET LLM Integration with Ollama and Microsoft.Extensions.AI
 
+[Ollama Library](https://ollama.com/library)
+
 > [!IMPORTANT]
 > If running with NVIDIA GPU on Linux, be sure to install the [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html).
 >
@@ -21,7 +23,7 @@
         --name ollama \
         ollama/ollama
 
-    # Pull the llama3.1 model
+    # Pull the llama3 model
     sudo docker exec -it ollama ollama pull llama3
     ```
 
