@@ -2,6 +2,8 @@
 
 [Ollama Library](https://ollama.com/library)
 
+https://github.com/user-attachments/assets/8b531e65-8944-4564-acb6-fbd14af7528c
+
 > [!IMPORTANT]
 > If running with NVIDIA GPU on Linux, be sure to install the [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html).
 >
