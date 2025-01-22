@@ -11,7 +11,7 @@ builder
     .AddChatClient(
         new OllamaChatClient(
             new Uri("http://localhost:11434"),
-            "llama3"
+            "llama3.2"
         )
     );
 

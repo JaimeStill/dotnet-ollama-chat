@@ -7,4 +7,4 @@ sudo docker run -d \
     ollama/ollama
 
 # Pull the llama3 model
-sudo docker exec -it ollama ollama pull llama3
+sudo docker exec -it ollama ollama pull llama3.2
